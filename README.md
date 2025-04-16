@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Abner Marangoni 👋</h1>
+<h1 align="center">Olá!<br>Sou o Abner Marangoni 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=435&lines=Estudante+de+ADS;Focado+em+Python+para+Back-end" alt="Typing SVG" />
@@ -33,5 +33,5 @@
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abnermarangoni)
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511959330092?text=Olá%2C+vim+pelo+seu+GitHub%21)
 ---
