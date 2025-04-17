@@ -1,7 +1,8 @@
 <h1 align="center">Olá!<br>Sou o Abner Marangoni 👋</h1>
 
 <p align="center">
-img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=435&lines=Estudante+de+ADS;Focado+em+Python+para+Back-end;Buscando+minha+primeira+oportunidade+na+área" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=435&lines=Estudante+de+ADS;Focado+em+Python+para+Back-end;Buscando+minha+primeira+oportunidade+na+área" alt="Typing SVG" />
 </p>
 
 ---
